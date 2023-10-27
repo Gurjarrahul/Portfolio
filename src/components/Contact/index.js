@@ -169,15 +169,14 @@ const Contact = () => {
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
-        <ContactForm >
+        {/* <ContactForm >
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput type="email" value={formDetails.email} placeholder="Email Address" onChange={(e) => onFormUpdate('email', e.target.value)}  />
           <ContactInput type="text" value={formDetails.Name} placeholder="Your Name" onChange={(e) => onFormUpdate('Name', e.target.value)} />
           <ContactInput type="tel" value={formDetails.phone} placeholder="Phone No." onChange={(e) => onFormUpdate('phone', e.target.value)} />
           <ContactInputMessage placeholder="Message" rows="4" onChange={(e) => onFormUpdate('message', e.target.value)} />
           <ContactButton type="submit" onSubmit={handleSubmit} />
-        </ContactForm>
-        
+        </ContactForm> */}
         <ContactForm >
           <ContactTitle>Location:</ContactTitle>
           <p style={{'color':'white'}}><Image src={contact.locimg}/>{contact.locdet}</p>
