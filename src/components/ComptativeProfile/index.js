@@ -133,7 +133,7 @@ const CodingProfile= ()=>{
                 <>
                   <Profile1>
                    <ProfileImage src={Profile.img}/> 
-                   <ProfileTitle>{<a herf={Profile.link}>{Profile.title}</a>}</ProfileTitle>
+                   <ProfileTitle><a href={Profile.link}>{Profile.title}</a></ProfileTitle>
                    <ProfileList>I am {Profile.level} .</ProfileList>
                    <ProfileList>I have solved more than {Profile.question} questions .</ProfileList> 
                    <ProfileList>Max rating on this platform is {Profile.rating} rating</ProfileList>
