@@ -171,7 +171,6 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Gurjarrahul/coding_platform_bitcode",
-    webapp: "https://bitcode.onrender.com/",
   },
   {
     id: 0,
@@ -260,7 +259,7 @@ export const profile=[
       { 
         title:"Codechef",
         img:"codechef.png",
-        link:"https://codeforces.com/profile/rahulsin_20",
+        link:"https://www.codechef.com/users/rahulsin_20",
         level:"4 Star",
          rating:"1808",
         question:"260"
