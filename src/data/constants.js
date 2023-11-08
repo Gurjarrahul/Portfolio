@@ -130,7 +130,7 @@ export const education = [
     school: "Institute of Engineering and Technology, Lucknow",
     date: "Oct 2020 - persent",
     grade: "8.17 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Institute of Engineering and Technology, Lucknow. I have completed 6 semesters and have a CGPA of 8.17. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Parmarth Social Club at KIIT, where I help to such students by providing them free education and other essintial things.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Institute of Engineering and Technology, Lucknow. I have completed 6 semesters and have a CGPA of 8.17. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Parmarth Social Club at IET , where I help to such students by providing them free education and other essintial things.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
